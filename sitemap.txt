@@ -12,6 +12,6 @@ http://example.com/gallery/index.html
 http://example.com/movies/index.html
 http://example.com/
 http://example.com/tags/%E9%A2%98%E8%A7%A3/
-http://example.com/tags/%E6%B5%8B%E8%AF%95/
 http://example.com/tags/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/
+http://example.com/tags/%E6%B5%8B%E8%AF%95/
 http://example.com/categories/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/
